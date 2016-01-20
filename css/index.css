@@ -1,0 +1,17 @@
+.thub{
+	width: 50px;
+	height: auto;
+	padding: 3px;
+	border: 1px #ccc solid;
+	margin:5px;
+}
+#user_info  img{
+	float: left;
+}
+#user_info  h2{
+	float: right;
+}
+#user_info
+{
+	margin-bottom: 56px;
+}
